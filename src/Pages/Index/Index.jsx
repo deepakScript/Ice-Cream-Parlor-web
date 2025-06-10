@@ -33,6 +33,7 @@ function Index() {
                     <img src={element02} alt="element2" className="w-[80px] h-[80px] absolute -top-[-20%] lg:left-[90%] left-[65%] hidden sm:flex" />
                     <img src={element03} alt="element3" className="w-[90px] h-[90px] absolute -top-[-10%] left-5" />
                     <img src={element04} alt="element3" className="w-[90px] h-[90px] absolute -top-[-85%] sm:-top-[85%] lg:left-[85%] left-[-75%] " />
+                    <img src={element04} alt="element3" className="w-[90px] h-[90px] absolute -top-[-85%] sm:-top-[85%] lg:left-[85%] left-[-75%] " />
                 </div>
             </div>
             {/* category section */}
